@@ -236,7 +236,7 @@ td.votelinks {
 .athing .title a:link, .athing .title a:visited {
     font-size: 110%;
 }
-.athing .title a, .subtext {
+.athing td.title, .subtext {
     padding-left: 10px;
 }
 .subtext {
